@@ -1,4 +1,4 @@
-Hi, I’m @hashtag_jayesh
+Hi, I’m Jayesh Modhvadiya
 And I'm a🐍Python developer.
 I am currently learning data science.
 I am interested in 🤖AI, Machine Learning and Deep Learning.
